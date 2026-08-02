@@ -34,16 +34,10 @@ export const sponsorConfig: SponsorConfig = {
 			name: "秋刀鱼的猫",
 			avatar:
 				"https://s41.ax1x.com/2026/08/01/pm4UvQI.jpg",
-			amount: "¥1314",
-			date: "2025-10-01",
+			amount: "",
+			date: "2026-8-01",
 		},
 
-		// 示例：匿名打赏者
-		{
-			name: "匿名用户",
-			// avatar: "",
-			amount: "¥520",
-			date: "2025-10-01",
-		},
+		
 	],
 };
