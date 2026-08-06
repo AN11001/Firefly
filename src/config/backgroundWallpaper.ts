@@ -44,7 +44,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-		    "https://s41.ax1x.com/2026/08/01/pm4d0bV.jpg",
+		    "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEYtQVqdOiZX0_BWzvkXoIgu1fmxl-f4wAC_CEAAtsbqFcGtqQLu1W0ED0E.jpg",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组）
