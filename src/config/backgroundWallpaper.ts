@@ -39,7 +39,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"https://s41.ax1x.com/2026/08/01/pm4d0bV.jpg",
+			"https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEY0apqdw83-_XcQdw8gZ1PcQ9Pu0ApUgACDSgAAvmbuFd-V_AkcFoQ3j0E.jpg",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
