@@ -39,12 +39,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEY0apqdw83-_XcQdw8gZ1PcQ9Pu0ApUgACDSgAAvmbuFd-V_AkcFoQ3j0E.jpg",
+			"https://s41.ax1x.com/2026/08/25/pnppoUe.jpg",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-		    "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEYtQVqdOiZX0_BWzvkXoIgu1fmxl-f4wAC_CEAAtsbqFcGtqQLu1W0ED0E.jpg",
+		    "https://s41.ax1x.com/2026/08/25/pnpSxh9.jpg",
+			"https://s41.ax1x.com/2026/08/25/pnp9SUg.jpg",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组）
