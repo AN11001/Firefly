@@ -31,10 +31,10 @@ export const sponsorConfig: SponsorConfig = {
 	sponsors: [
 		// 示例：已实名打赏者
 		{
-			name: "是海星不是手里剑",
+			name: "东雪莲の猫",
 			avatar:
-				"https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEY0hhqdxUhLNdf2pZf6RFOOxaI-RNHCwACfSgAAvmbuFcyoctVBLQYzz0E.jpg",
-			amount: "",
+				"https://s41.ax1x.com/2026/08/26/pnpqCrQ.jpg",
+			amount: "⸝⸝⸝ ╸▵╺⸝⸝⸝",
 			date: "2026-8-01",
 		},
 

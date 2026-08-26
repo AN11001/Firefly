@@ -17,11 +17,11 @@ export const galleryConfig: GalleryConfig = {
 		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
 		{
 			id: "An-2026",
-			name: "是海星不是手里剑",
-			description: "最悪です（风子音）",
-			location:"CLANNAD",
+			name: "关于莉莉周的一切",
+			description: "我的以太倾斜了。",
+			location:"关于莉莉周的一切",
 			date: "2026-08-01",
-			tags: ["伊吹风子", "海星"],
+			tags: ["文青病", "文青"],
 		},
 		{
 			id: "An",

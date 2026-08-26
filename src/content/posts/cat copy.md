@@ -2,7 +2,7 @@
 title: 好不开心
 published: 2026-08-01
 description: 眼泪其实是黏人的胶水，你抬手擦去我脸颊泪痕的时候，我的半缕魂魄，就此与你粘在了一处。
-image: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEYtXVqdPIQeIPVHSI_n9ova9HkYwmKuAACbiIAAtsbqFe3vRMdf0rjrD0E.jpg
+image: https://s41.ax1x.com/2026/08/26/pnpHBOH.jpg
 tags: [文青病]
 category: 我喜欢你哦
 draft: false

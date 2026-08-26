@@ -46,6 +46,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		mobile: [
 		    "https://s41.ax1x.com/2026/08/25/pnpSxh9.jpg",
 			"https://s41.ax1x.com/2026/08/25/pnp9SUg.jpg",
+			"https://s41.ax1x.com/2026/08/26/pnpbovD.jpg",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组）

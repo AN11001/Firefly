@@ -1,4 +1,4 @@
 # 每行一个图片 URL，支持 jpg/png/webp/avif/gif后缀
 # # 号开头的行为注释，空行会被忽略
-# 示例：
-https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEY0hhqdxUhLNdf2pZf6RFOOxaI-RNHCwACfSgAAvmbuFcyoctVBLQYzz0E.jpg
+# 示例：莉莉周
+https://s41.ax1x.com/2026/08/26/pnpHEes.jpg
